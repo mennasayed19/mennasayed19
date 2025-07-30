@@ -18,7 +18,7 @@
 - 🌱 Currently diving deep into **Flutter & Dart**
 - 🧠 Learning animations, Firebase integration, and state management
 - 💬 Ask me about **mobile UI/UX, Dart, and cross-platform apps**
-- 📫 Reach me at: [menna.sayed.dev@gmail.com](mailto:menna.sayed.dev@gmail.com)
+- 📫 Reach me at: [mennasayedf@gmail.com](mailto:mennasayedf@gmail.com)
 - 🎨 I love bringing interfaces to life
 
 ---
